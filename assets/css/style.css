@@ -166,6 +166,11 @@ header{
     font-weight: 300;
     letter-spacing: 2px;
 }
+/*--------------------------Map*/
+div#map{
+    min-width: 360px;
+    min-height: 360px;
+}
 
 /*-------------------------hoover.css*/
 
